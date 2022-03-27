@@ -10,7 +10,7 @@ namespace ConsoleApp2_GitHub
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Added new text");
         }
     }
 }
